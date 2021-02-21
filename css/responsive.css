@@ -83,10 +83,10 @@
 
   .menu-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
   }
   .btn-menu {
-    margin-top: 30px;
+    margin-top: 0;
     width: 70px;
     height: 70px;
     background: url('../imgs/menu.png');
